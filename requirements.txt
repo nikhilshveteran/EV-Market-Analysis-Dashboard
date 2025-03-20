@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+statsmodels
+prophet         # Time series forecasting (if using Facebook Prophet)
+scipy           # Scientific computing
+openpyxl        # If working with Excel files
